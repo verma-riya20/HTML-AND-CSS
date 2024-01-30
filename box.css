@@ -1,0 +1,12 @@
+button{
+    border-color: rgb(29, 23, 23);
+    text-decoration-color: black;
+    font-weight: bolder;
+    font-size: larger;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-right: 20px;
+   padding-left: 20px;
+    border-radius:20px;
+    background-color: white;
+}
