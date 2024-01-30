@@ -1,0 +1,77 @@
+body{
+text-align: center;
+font-family: 'Happy Monkey', system-ui;
+background: linear-gradient(rgb(151, 214, 243),pink);
+color:white;
+#main{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+}
+h1,h2,h4{
+    text-shadow:0px 0px 1px black;
+}
+#pic{
+    width:150px;
+    border-radius: 100%;
+    border: 8px solid pink;
+
+}
+#age,#date{
+    background-color: pink;
+    padding: 5px 10px;
+    border-radius:10%;
+}
+.first{
+    width: 400px;
+}
+.hint{
+    margin-top: 0px;
+}
+.first{
+    background-image: url("/images/giftcover.jpg");
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    margin: 0px auto;
+
+}
+.first:hover{
+    background-image: url("/images/happy.gif");
+     
+}
+.second{
+    background-image: url("/images/giftcover.jpg");
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    margin: 0px auto;
+}
+.second:hover{
+    background-image: url("/images/dance.gif");
+     
+}
+.third{
+    background-image: url("/images/giftcover.jpg");
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    margin: 0px auto;
+
+}
+.third:hover{
+    background-image: url("/images/rose.gif");
+}
+.fourth{
+    background-image: url("/images/giftcover.jpg");
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    margin: 0px auto;
+
+}
+.fourth:hover{
+
+background-image: url("/images/clap.gif");}
