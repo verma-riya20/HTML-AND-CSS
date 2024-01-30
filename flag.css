@@ -1,0 +1,23 @@
+
+.orange{
+    background-color: rgb(255, 51, 0);
+    height: 250px;
+
+}
+.white{
+    background-color: white;
+    height: 290px;
+   background-image: url("/images/ashoka.png");
+   width: 20%;
+   background-size: cover;
+margin-left: 40%;
+padding: 10px;
+margin-bottom: 5px;
+
+}
+.green{
+    background-color: rgba(61, 160, 8, 0.948);
+    height: 250px;
+}
+
+
